@@ -11,7 +11,7 @@
 char message1[] = "itumoosewaninatteorimasu. \n";	// いつもお世話になっております。
 char message2[] = "otukaresamadesu. \n";		// おつかれさまです。
 char message3[] = "ijou,yorosikuonegaisimasu. \n";	// 以上、よろしくお願いします。
-//char message4[] = " \n";				// HS開
+//char message4[] = " \n";				// 
 
 //
 //　初期設定
